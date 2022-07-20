@@ -6,6 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-cavazani-brianez-177916207/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
+Olá, meu nome é Kauan Cavazani Brianez, tenho 18 anos e estudo ciências da computação na São Paulo Tech School!
+
 ![Kauan Cavazani´s GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanCavazani&show_icons=true&theme=midnight-purple)
 
 ## Tecnologias que uso no meu dia
