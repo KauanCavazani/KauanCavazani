@@ -80,6 +80,4 @@ I'm Kauan Cavazani, a computer science student 💻.
 
 ------
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=KauanCavazani)
-
 Last Edited on: 27/08/2021
