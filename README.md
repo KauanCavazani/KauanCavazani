@@ -2,7 +2,7 @@
 
 I'm Kauan Cavazani, a computer science student 💻.
 
-- :seedling: I’m 18 years old.
+- :seedling: I’m 19 years old.
 - :computer: I’m currently learning about Python and Java.
 - :school: São Paulo Tech School
 - :book: Computer Science (2/8)
