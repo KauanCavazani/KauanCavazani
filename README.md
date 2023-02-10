@@ -3,9 +3,9 @@
 I'm Kauan Cavazani, a computer science student 💻.
 
 - :seedling: I’m 19 years old.
-- :computer: I’m currently learning about Python and Java.
+- :computer: I’m currently learning about Spring Boot.
 - :school: São Paulo Tech School
-- :book: Computer Science (2/8)
+- :book: Computer Science (3/8)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -24,8 +24,8 @@ I'm Kauan Cavazani, a computer science student 💻.
 - 🎨 Frameworks <br>
 
    ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-   ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
     
 - 💾 Databases: <br>
 
@@ -35,12 +35,12 @@ I'm Kauan Cavazani, a computer science student 💻.
     
 - 🎛️ Application and Tools: <br>
 
+    ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)    
     
 </p>
 
@@ -80,4 +80,4 @@ I'm Kauan Cavazani, a computer science student 💻.
 
 ------
 
-Last Edited on: 27/08/2021
+Last Edited on: 10/02/2023
