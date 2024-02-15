@@ -5,7 +5,7 @@ I'm Kauan Cavazani, a computer science student 💻.
 - :seedling: I’m 19 years old.
 - :computer: I’m currently learning about Spring Boot.
 - :school: São Paulo Tech School
-- :book: Computer Science (4/8)
+- :book: Computer Science (5/8)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
