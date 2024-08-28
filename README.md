@@ -3,9 +3,8 @@
 I'm Kauan Cavazani, a computer science student 💻.
 
 - :seedling: I’m 20 years old.
-- :computer: I’m currently learning about Spring Boot.
 - :school: São Paulo Tech School
-- :book: Computer Science (5/8)
+- :book: Computer Science (6/8)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -69,4 +68,4 @@ I'm Kauan Cavazani, a computer science student 💻.
 
 ------
 
-Last Edited on: 08/04/2024
+Last Edited on: 28/08/2024
